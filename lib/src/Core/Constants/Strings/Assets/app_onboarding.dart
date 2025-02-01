@@ -1,0 +1,3 @@
+class AppOnBoarding {
+  AppOnBoarding._();
+}

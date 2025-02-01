@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "696404450487",
+    "project_id": "meiar-elnagah",
+    "storage_bucket": "meiar-elnagah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696404450487:android:74b33021beec87ef834132",
+        "android_client_info": {
+          "package_name": "com.example.reham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696404450487-iunectgmrn2rqc1t689nbu5mq341r05g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCds2GhmP63x1Y0_9uqGTe-0bqvxZ1xVTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696404450487-iunectgmrn2rqc1t689nbu5mq341r05g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696404450487:android:0af6a95ff4691d4d834132",
+        "android_client_info": {
+          "package_name": "com.crazyidea.travel.hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696404450487-iunectgmrn2rqc1t689nbu5mq341r05g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCds2GhmP63x1Y0_9uqGTe-0bqvxZ1xVTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696404450487-iunectgmrn2rqc1t689nbu5mq341r05g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

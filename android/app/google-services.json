@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254275451415",
+    "project_id": "cicd-2d691",
+    "storage_bucket": "cicd-2d691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254275451415:android:f76768e2e4553568fe3a52",
+        "android_client_info": {
+          "package_name": "com.example.reham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtzUoY452v_0nl8k_wni9VYtknk91JWtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
