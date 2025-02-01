@@ -52,3 +52,5 @@ cross-platform compatibility for Android and iOS.
 1. **Clone the repository**:
 
    ```bash
+
+git clone https://github.com/rehamAlii29/e-commerce.git
