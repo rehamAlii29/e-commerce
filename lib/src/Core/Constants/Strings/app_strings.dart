@@ -11,7 +11,7 @@ class AppStrings {
   static const String appDescription = 'Silent Moon';
   static const String appLegalese = 'Ⓒ2022 $appName ';
   static const String androidIconPath = '@mipmap/ic_launcher';
-  static const String fontFamily = "Cairo";
+  static const String fontFamily = "Poppins";
   static const String fontFamilySecondary = "";
   static const String appIcon = "assets/images/logo.png";
   static const String appAndroidVersion = "1.0.0";
